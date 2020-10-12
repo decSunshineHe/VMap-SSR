@@ -1,0 +1,58 @@
+.sub-search-svg.svg-icon {
+  width: 17px;
+  height: 17px;
+  color: #666;
+}
+
+.nav-card-svg.svg-icon {
+  color: #fff;
+  width: 58px;
+  height: 58px;
+}
+
+.nav-hi-svg.svg-icon {
+  width: 20px;
+  height: 20px;
+  color: #FF7900;
+}
+
+.basic-menu-svg.svg-icon {
+  width: 18px;
+  height: 18px;
+  color: #333;
+}
+
+.basic-menu-svg.active.svg-icon {
+  color: #1A63FF;
+}
+
+.basic-search-svg.svg-icon {
+  width: 14px;
+  height: 14px;
+  color: #999;
+}
+
+.basic-search.active .basic-search-svg.svg-icon {
+  color: #1A63FF;
+}
+
+.login-svg.svg-icon {
+  color: #c7cfff;
+}
+
+.side-switch-svg.svg-icon {
+  color: #1A63FF;
+  width: 14px;
+  height: 14px;
+}
+
+.nologin-svg.svg-icon {
+  width: 18px;
+  height: 18px;
+  color: #666;
+  margin-right: 6px;
+} 
+
+.nologin-btn-box:hover .nologin-svg.svg-icon {
+  color: #1A63FF;
+}
